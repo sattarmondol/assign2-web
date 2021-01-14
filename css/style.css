@@ -1,0 +1,39 @@
+.nav-position{
+    transform: translate(450px,0px);
+}
+.top-banner,.nav-background{
+    background-color: bisque;
+
+}
+.top-text-highlight,h4{
+    color: coral;
+}
+.button-margin{
+    margin-left: 150px;
+}
+.card-img-woman{
+    height: 400px;
+    padding: 40px;
+    border-radius: 20px;
+    background-color: rgb(248, 229, 222);
+}
+.woman-card,.woman-card-footer{
+    border: 0;
+    background-color: white;
+}
+.information-area{
+   
+    box-shadow:10px 10px rgb(245, 241, 241);
+}
+/* position: absolute;
+width: 357px;
+height: 52px;
+left: 135px;
+top: 348px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+color: #3E3E3E; */
